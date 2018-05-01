@@ -1,7 +1,7 @@
 from socket import *
 import sys
 
-# --------------------------------------------
+# ---------------------------------------------
 # CODIFICACAO E DECODIFICACAO DOS DADOS
 
 def encode16(entrada):
